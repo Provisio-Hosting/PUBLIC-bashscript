@@ -1,6 +1,6 @@
 #!/bin/bash
 # Deploy Enterprise-Ready Cloudflare Tunnel in Proxmox with Zero Trust
-# Usage: bash -c "$(curl -fsSL https://github.com/Provisio-Hosting/bash-helperscript/tree/master/cloudflare/main.sh) | bash"
+# Usage: bash -c "$(curl -fsSL https://script.gobbifrancesco.com/cloudflare/main.sh) | bash"
 
 # ---------------------------
 # FUNZIONI PRINCIPALI
